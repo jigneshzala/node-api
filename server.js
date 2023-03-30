@@ -8,6 +8,7 @@ const users = [
     { id: 1, name: 'John Doe' },
     { id: 2, name: 'Jane Doe' },
     { id: 3, name: 'Bob Smith' },
+    { id: 4, name: 'Jignesh' },
 ];
 
 // Define a GET endpoint that returns the dummy data
